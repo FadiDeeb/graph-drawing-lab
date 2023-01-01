@@ -32,8 +32,8 @@
     "electron": "^8.0.0",
     "eslint": "^5.16.0",
     "jest": "^25.1.0",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "d3": "^5.16.0",
